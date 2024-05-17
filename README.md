@@ -5,5 +5,4 @@
 2) User can start a timer by clicking on respective task.
 3) User can delete any task.
 
-- [Link] (https://task-manager-delta-beryl.vercel.app/) Here's the deployed project.
-
+Here's the deployed project - [Task Manager](https://task-manager-delta-beryl.vercel.app/) 
