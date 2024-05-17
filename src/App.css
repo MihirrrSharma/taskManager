@@ -108,15 +108,15 @@ body{
 
 @media (max-width: 768px) {
   .center-container {
-    width: 90%; /* Adjust width for smaller screens */
-    max-width: 300px; /* Reduce maximum width for smaller screens */
+    width: 90%; 
+    max-width: 300px; 
   }
 
   .input-box-todo {
-    font-size: medium; /* Decrease font size for smaller screens */
+    font-size: medium; 
   }
 
   .list-item {
-    font-size: small; /* Decrease font size for smaller screens */
+    font-size: small; 
   }
 }
